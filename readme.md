@@ -12,7 +12,7 @@ With just a few lines of setup, you can fill your APIs, databases, or UI compone
 3. Check JsonFile in output folder 
 
 ## Version
-0.0.1 - Start Project <br />
+0.1.0 - Start Project <br />
 
 ## Notice
 Unfortunately, This Project is not Complete. <br />
